@@ -2,6 +2,7 @@
   {
     user : "Roopam Gupta",
     userEmail : "webdevarmyhq@gmail.com",
-    userPassword : "password@123"
+    userPassword : "password@123",
+    usePlan : "yearly"
   }
 ]
