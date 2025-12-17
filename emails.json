@@ -18,15 +18,6 @@
     trialEndDate : "null"
   },
   {
-    user : "Neeraj (from whatsapp)",
-    userEmail : "hneerajvn1@gmail.com",
-    userPassword : "password@neeraj123",
-    usePlan : "yearly",
-    device : "windows",
-    startDate : "01-12-2025",
-    trialEndDate : "null"
-  },
-  {
     user : "Aditya (from reddit)",
     userEmail : "mattstonie2023@gmail.com",
     userPassword : "password@123",
