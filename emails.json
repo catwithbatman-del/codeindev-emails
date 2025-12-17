@@ -11,7 +11,7 @@
   {
     user : "Harshit Jain(rakshit' brother)",
     userEmail : "harshuzn60@gmail.com",
-    userPassword : "password@123",
+    userPassword : "password@neeraj123",
     usePlan : "yearly",
     device : "macos",
     startDate : "01-12-2025",
@@ -25,5 +25,14 @@
     device : "windows",
     startDate : "01-12-2025",
     trialEndDate : "null"
-  }
+  },
+  {
+    user : "Aditya (from reddit)",
+    userEmail : "mattstonie2023@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "17-12-2025",
+    trialEndDate : "17-12-2025"
+  },
 ]
