@@ -16,5 +16,14 @@
     device : "macos",
     startDate : "01-12-2025",
     trialEndDate : "null"
-  }
+  },
+  {
+    user : "Neeraj (fro whatsapp)",
+    userEmail : "hneerajvn1@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "01-12-2025",
+    trialEndDate : "null"
+  },
 ]
