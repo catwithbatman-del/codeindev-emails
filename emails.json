@@ -62,4 +62,13 @@
     startDate : "17-12-2025",
     trialEndDate : "17-12-2025"
   },
+  {
+    user : "Hugo (from reddit)",
+    userEmail : "d142tinochemh2020@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "17-12-2025",
+    trialEndDate : "17-12-2025"
+  },
 ]
