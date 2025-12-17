@@ -44,4 +44,13 @@
     startDate : "17-12-2025",
     trialEndDate : "17-12-2025"
   },
+  {
+    user : "Rezaul Karim (from reddit)",
+    userEmail : "whothehellisreza@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "17-12-2025",
+    trialEndDate : "17-12-2025"
+  },
 ]
