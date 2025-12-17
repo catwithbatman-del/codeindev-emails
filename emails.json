@@ -143,4 +143,13 @@
     startDate : "18-12-2025",
     trialEndDate : "18-12-2025"
   },
+  {
+    user : "reachsevhere@gmail.com (from reddit)",
+    userEmail : "reachsevhere@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
 ]
