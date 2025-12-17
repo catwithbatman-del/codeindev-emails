@@ -1,14 +1,5 @@
 [
   {
-    user : "Rakshit Jain",
-    userEmail : "demotooltest0@gmail.com",
-    userPassword : "password@123",
-    usePlan : "yearly",
-    device : "macos",
-    startDate : "01-12-2025",
-    trialEndDate : "null"
-  },
-  {
     user : "Harshit Jain(rakshit' brother)",
     userEmail : "harshuzn60@gmail.com",
     userPassword : "password@neeraj123",
