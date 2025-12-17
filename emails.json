@@ -26,4 +26,14 @@
     startDate : "17-12-2025",
     trialEndDate : "17-12-2025"
   },
+  
+  {
+    user : "Jay (from whatsapp)",
+    userEmail : "hullo.jayraj@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "17-12-2025",
+    trialEndDate : "17-12-2025"
+  },
 ]
