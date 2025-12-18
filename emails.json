@@ -1,5 +1,14 @@
 [
   {
+    user : "Roopam",
+    userEmail : "webdevarmyhq@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
+  {
     user : "Harshit Jain(rakshit' brother)",
     userEmail : "harshuzn60@gmail.com",
     userPassword : "password@123",
@@ -254,6 +263,33 @@
    {
     user : "khisam20@gmail.com (from reddit)",
     userEmail : "khisam20@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
+  {
+    user : "hangars.duo_1v@icloud.com (from reddit)",
+    userEmail : "hangars.duo_1v@icloud.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
+   {
+    user : "emiliouf@gmail.com (from reddit)",
+    userEmail : "emiliouf@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
+  {
+    user : "curtis40421@gmail.com (from reddit)",
+    userEmail : "curtis40421@gmail.com",
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
