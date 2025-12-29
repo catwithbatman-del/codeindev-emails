@@ -323,4 +323,13 @@
     startDate : "18-12-2025",
     trialEndDate : "18-12-2025"
   },
+  {
+    user : "jessem442@icloud.com (from reddit)",
+    userEmail : "jessem442@icloud.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
 ]
