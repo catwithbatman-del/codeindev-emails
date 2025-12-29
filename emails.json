@@ -296,4 +296,23 @@
     startDate : "18-12-2025",
     trialEndDate : "18-12-2025"
   },
+  {
+    user : "yashsitapara50@gmail.com (from reddit)",
+    userEmail : "yashsitapara50@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
+  {
+    user : "sailokeshreddyg@gmail.com (from reddit)",
+    userEmail : "sailokeshreddyg@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
+  
 ]
