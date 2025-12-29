@@ -302,8 +302,8 @@
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
-    startDate : "18-12-2025",
-    trialEndDate : "18-12-2025"
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
   },
   {
     user : "sailokeshreddyg@gmail.com (from reddit)",
@@ -311,8 +311,8 @@
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
-    startDate : "18-12-2025",
-    trialEndDate : "18-12-2025"
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
   },
   {
     user : "Ashrafw2001@gmail.com (from reddit)",
@@ -320,8 +320,8 @@
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
-    startDate : "18-12-2025",
-    trialEndDate : "18-12-2025"
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
   },
   {
     user : "jessem442@icloud.com (from reddit)",
@@ -329,8 +329,8 @@
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
-    startDate : "18-12-2025",
-    trialEndDate : "18-12-2025"
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
   },
   {
     user : "karanyadav729@gmail.com (from reddit)",
@@ -338,7 +338,7 @@
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
-    startDate : "18-12-2025",
-    trialEndDate : "18-12-2025"
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
   },
 ]
