@@ -359,4 +359,22 @@
     startDate : "30-12-2025",
     trialEndDate : "30-12-2025"
   },
+  {
+    user : "ankitajhaswe@gmail.com (from reddit)",
+    userEmail : "ankitajhaswe@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
+  },
+    {
+    user : "sukhwindersinghsandhu727@gmail.com (from reddit)",
+    userEmail : "sukhwindersinghsandhu727@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
+  },
 ]
