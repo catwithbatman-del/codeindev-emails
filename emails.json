@@ -432,7 +432,7 @@
     trialEndDate : "30-12-2025"
   },
   {
-    user : "anurag754926@gmail.com (from Reddit)",
+    user : "anurag754926@gmail.com (from WA)",
     userEmail : "anurag754926@gmail.com",
     userPassword : "password@123",
     usePlan : "yearly",
@@ -441,7 +441,7 @@
     trialEndDate : "30-12-2025"
   },
   {
-    user : "niprime77@outlook.com (from Reddit)",
+    user : "niprime77@outlook.com (from WA)",
     userEmail : "niprime77@outlook.com",
     userPassword : "password@123",
     usePlan : "yearly",
@@ -450,8 +450,17 @@
     trialEndDate : "31-12-2025"
   },
   {
-    user : "aaryanrajput3.14@gmail.com (from Reddit)",
+    user : "aaryanrajput3.14@gmail.com (from WA)",
     userEmail : "aaryanrajput3.14@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "31-12-2025",
+    trialEndDate : "31-12-2025"
+  },
+  {
+    user : "adityadway@gmail.com (from WA)",
+    userEmail : "adityadway@gmail.com",
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
