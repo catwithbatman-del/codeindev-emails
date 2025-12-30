@@ -404,4 +404,31 @@
     startDate : "30-12-2025",
     trialEndDate : "30-12-2025"
   },
+  {
+    user : "levelgenius@yahoo.com (from WA)",
+    userEmail : "levelgenius@yahoo.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
+  },
+  {
+    user : "sirpuddinlot@gmail.com (from Reddit)",
+    userEmail : "sirpuddinlot@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
+  },
+   {
+    user : "nimesh810@gmail.com (from Reddit)",
+    userEmail : "nimesh810@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
+  },
 ]
