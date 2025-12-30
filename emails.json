@@ -395,4 +395,13 @@
     startDate : "30-12-2025",
     trialEndDate : "30-12-2025"
   },
+  {
+    user : "pranavkamat9@gmail.com (from WA)",
+    userEmail : "pranavkamat9@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "30-12-2025",
+    trialEndDate : "30-12-2025"
+  },
 ]
