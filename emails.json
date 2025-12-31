@@ -9,6 +9,15 @@
     trialEndDate : "18-12-2025"
   },
   {
+    user : "Emilio Trenzado",
+    userEmail : "emiliouf@gmail.com",
+    userPassword : "Emilio@us23",
+    usePlan : "lifetime",
+    device : "macos/windows",
+    startDate : "31-12-2025",
+    trialEndDate : "31-12-2035"
+  },
+  {
     user : "Harshit Jain(rakshit' brother)",
     userEmail : "harshuzn60@gmail.com",
     userPassword : "password@123",
