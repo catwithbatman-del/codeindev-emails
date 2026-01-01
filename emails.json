@@ -206,4 +206,13 @@
     startDate : "31-12-2025",
     trialEndDate : "31-12-2025"
   },
+  {
+    user : "jadeschwartz76@gmail.com (from WA)",
+    userEmail : "jadeschwartz76@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "02-01-2026",
+    trialEndDate : "02-01-2026"
+  },
 ]
