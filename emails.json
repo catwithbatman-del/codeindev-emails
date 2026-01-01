@@ -18,6 +18,15 @@
     trialEndDate : "31-12-2035"
   },
   {
+    user : "Prof",
+    userEmail : "profben63@gmail.com",
+    userPassword : "profben@us24",
+    usePlan : "lifetime",
+    device : "windows",
+    startDate : "31-12-2025",
+    trialEndDate : "31-12-2035"
+  },
+  {
     user : "Harshit Jain(rakshit' brother)",
     userEmail : "harshuzn60@gmail.com",
     userPassword : "password@123",
