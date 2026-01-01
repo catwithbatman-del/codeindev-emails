@@ -215,4 +215,13 @@
     startDate : "02-01-2026",
     trialEndDate : "02-01-2026"
   },
+  {
+    user : "raju.javafs@gmail.com (from WA)",
+    userEmail : "raju.javafs@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "02-01-2026",
+    trialEndDate : "02-01-2026"
+  },
 ]
