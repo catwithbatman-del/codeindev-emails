@@ -126,8 +126,17 @@
     trialEndDate : "02-01-2026"
   },
   {
-    user : "lemonite13@gmail.com (from WA)",
+    user : "lemonite13@gmail.com (from reddit)",
     userEmail : "lemonite13@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "02-01-2026",
+    trialEndDate : "02-01-2026"
+  },
+  {
+    user : "techw131@gmail.com (from reddit)",
+    userEmail : "techw131@gmail.com",
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
