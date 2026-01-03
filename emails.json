@@ -377,4 +377,31 @@
     startDate : "03-01-2026",
     trialEndDate : "03-01-2026"
   },
+  {
+    user : "munibrazakhan@gmail.com (from reddit)",
+    userEmail : "munibrazakhan@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "03-01-2026",
+    trialEndDate : "03-01-2026"
+  },
+  {
+    user : "pcrx23@gmail.com (from reddit)",
+    userEmail : "pcrx23@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "03-01-2026",
+    trialEndDate : "03-01-2026"
+  },
+   {
+    user : "pcrx23@gmail.com (from reddit)",
+    userEmail : "pcrx23@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "03-01-2026",
+    trialEndDate : "03-01-2026"
+  },
 ]
