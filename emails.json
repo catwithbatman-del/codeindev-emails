@@ -9,6 +9,15 @@
     trialEndDate : "18-12-2025"
   },
   {
+    user : "Rakshit",
+    userEmail : "demotooltest0@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "18-12-2025",
+    trialEndDate : "18-12-2025"
+  },
+  {
     user : "Emilio Trenzado",
     userEmail : "emiliouf@gmail.com",
     userPassword : "Emilio@us23",
