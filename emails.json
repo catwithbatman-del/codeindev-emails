@@ -602,4 +602,13 @@
     startDate : "04-01-2026",
     trialEndDate : "04-01-2026"
   },
+  {
+    user : "fadul.sikder@gmail.com (from reddit)",
+    userEmail : "fadul.sikder@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
 ]
