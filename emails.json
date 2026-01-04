@@ -530,4 +530,76 @@
     startDate : "03-01-2026",
     trialEndDate : "03-01-2026"
   },
+  {
+    user : "cskred95@gmail.com (from reddit)",
+    userEmail : "cskred95@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
+  {
+    user : "prnthdrj@gmail.com (from reddit)",
+    userEmail : "prnthdrj@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
+   {
+    user : "Tonygzlez@gmail.com (from reddit)",
+    userEmail : "Tonygzlez@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
+  {
+    user : "rockcode2110@gmail.com (from reddit)",
+    userEmail : "rockcode2110@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
+  {
+    user : "deepd1534@gmail.com (from reddit)",
+    userEmail : "deepd1534@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
+  {
+    user : "Rathoreshub22@gmail.com (from reddit)",
+    userEmail : "Rathoreshub22@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
+  {
+    user : "Throwaway0junk@gmail.com (from reddit)",
+    userEmail : "Throwaway0junk@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
+  {
+    user : "Wonderlade@yahoo.com (from reddit)",
+    userEmail : "Wonderlade@yahoo.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
 ]
