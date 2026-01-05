@@ -611,4 +611,13 @@
     startDate : "04-01-2026",
     trialEndDate : "04-01-2026"
   },
+  {
+    user : "Mathi.raja.333@gmail.com (from reddit)",
+    userEmail : "Mathi.raja.333@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
 ]
