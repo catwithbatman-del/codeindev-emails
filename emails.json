@@ -620,4 +620,13 @@
     startDate : "04-01-2026",
     trialEndDate : "04-01-2026"
   },
+  {
+    user : "dev.domain200@passmail.com (from reddit)",
+    userEmail : "dev.domain200@passmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "04-01-2026",
+    trialEndDate : "04-01-2026"
+  },
 ]
