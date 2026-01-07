@@ -410,8 +410,8 @@
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
-    startDate : "06-01-2026",
-    trialEndDate : "06-01-2026"
+    startDate : "08-01-2026",
+    trialEndDate : "08-01-2026"
   },
   {
     user : "mael9353@gmail.com (from reddit)",
@@ -419,8 +419,8 @@
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
-    startDate : "06-01-2026",
-    trialEndDate : "06-01-2026"
+    startDate : "08-01-2026",
+    trialEndDate : "08-01-2026"
   },
   {
     user : "dubgasm@duck.com (from reddit)",
@@ -428,7 +428,16 @@
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
-    startDate : "06-01-2026",
-    trialEndDate : "06-01-2026"
+    startDate : "08-01-2026",
+    trialEndDate : "08-01-2026"
+  },
+  {
+    user : "Omprakash070@gmail.com (from reddit)",
+    userEmail : "Omprakash070@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "08-01-2026",
+    trialEndDate : "08-01-2026"
   },
 ]
