@@ -1,5 +1,14 @@
 [
   {
+    user : "anandhegde9999@gmail.com (this is paid yearly user - upi)",
+    userEmail : "anandhegde9999@gmail.com",
+    userPassword : "ahegde@in13",
+    usePlan : "yearly/upi",
+    device : "windows",
+    startDate : "12-01-2026",
+    trialEndDate : "12-01-2027"
+  },
+  {
     user : "Roopam",
     userEmail : "webdevarmyhq@gmail.com",
     userPassword : "password@123",
