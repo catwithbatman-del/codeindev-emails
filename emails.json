@@ -180,6 +180,7 @@
     trialEndDate : "07-01-2026"
   },
   {
+    {
     user : "Greg@parkingaccess.com (from reddit)",
     userEmail : "Greg@parkingaccess.com",
     userPassword : "password@123",
@@ -187,5 +188,32 @@
     device : "macos",
     startDate : "07-01-2026",
     trialEndDate : "07-01-2026"
+  },
+  {
+    user : "divyaallmight@gmail.com (from reddit)",
+    userEmail : "divyaallmight@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "13-01-2026",
+    trialEndDate : "13-01-2026"
+  },
+  {
+    user : "Anshu.commm@gmail.com (from reddit)",
+    userEmail : "Anshu.commm@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "13-01-2026",
+    trialEndDate : "13-01-2026"
+  },
+  {
+    user : "Sourojitdas92@gmail.com (from reddit)",
+    userEmail : "Sourojitdas92@gmail.com",
+    userPassword : "password@123",
+    usePlan : "yearly",
+    device : "macos",
+    startDate : "13-01-2026",
+    trialEndDate : "13-01-2026"
   },
 ]
