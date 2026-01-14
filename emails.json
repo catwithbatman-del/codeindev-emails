@@ -108,8 +108,8 @@
     trialEndDate : "14-01-2026"
   },
   {
-    user : "Greg@parkingaccess.com (from reddit)",
-    userEmail : "Greg@parkingaccess.com",
+    user : "greg@parkingaccess.com (from reddit)",
+    userEmail : "greg@parkingaccess.com",
     userPassword : "password@123",
     usePlan : "yearly",
     device : "macos",
