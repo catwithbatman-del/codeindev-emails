@@ -314,4 +314,22 @@
     startDate : "18-01-2026",
     trialEndDate : "19-01-2026"
   },
+  {
+    user : "adityachoksi2512@gmail.com (from reddit)",
+    userEmail : "adityachoksi2512@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
+  {
+    user : "gk.aks.temp@gmail.com (from reddit)",
+    userEmail : "gk.aks.temp@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
 ]
