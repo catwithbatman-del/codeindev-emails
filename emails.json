@@ -134,4 +134,13 @@
     startDate : "18-01-2026",
     trialEndDate : "19-01-2026"
   },
+  {
+    user : "amar.ghodke25@gmail.com  (from reddit)",
+    userEmail : "amar.ghodke25@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
 ]
