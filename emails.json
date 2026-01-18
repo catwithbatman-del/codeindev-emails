@@ -108,8 +108,17 @@
     trialEndDate : "19-01-2026"
   },
   {
-    user : "slccafe7@gmail.com  (from cluely page)",
+    user : "slccafe7@gmail.com  (from reddit page)",
     userEmail : "slccafe7@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
+  {
+    user : "ferjogy@gmail.com  (from reddit)",
+    userEmail : "ferjogy@gmail.com",
     userPassword : "password@123",
     usePlan : "trial",
     device : "windows",
