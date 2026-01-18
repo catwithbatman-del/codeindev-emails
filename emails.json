@@ -71,4 +71,13 @@
     startDate : "18-01-2026",
     trialEndDate : "19-01-2026"
   },
+  {
+    user : "Lucasawad2@gmail.com",
+    userEmail : "Lucasawad2@gmail.com (from cluely page)",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
 ]
