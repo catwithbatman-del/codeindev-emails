@@ -170,4 +170,22 @@
     startDate : "18-01-2026",
     trialEndDate : "19-01-2026"
   },
+  {
+    user : "dhanushrajashekar@outlook.com  (from reddit)",
+    userEmail : "dhanushrajashekar@outlook.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
+  {
+    user : "Imdarthwader@gmail.com  (from reddit)",
+    userEmail : "Imdarthwader@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
 ]
