@@ -72,8 +72,8 @@
     trialEndDate : "19-01-2026"
   },
   {
-    user : "Lucasawad2@gmail.com",
-    userEmail : "Lucasawad2@gmail.com (from cluely page)",
+    user : "Lucasawad2@gmail.com (from cluely page)",
+    userEmail : "Lucasawad2@gmail.com",
     userPassword : "password@123",
     usePlan : "trial",
     device : "windows",
@@ -81,8 +81,8 @@
     trialEndDate : "19-01-2026"
   },
   {
-    user : "djdhruv05082003@gmail.com",
-    userEmail : "djdhruv05082003@gmail.com (from cluely page)",
+    user : "djdhruv05082003@gmail.com  (from cluely page)",
+    userEmail : "djdhruv05082003@gmail.com",
     userPassword : "password@123",
     usePlan : "trial",
     device : "windows",
