@@ -217,7 +217,16 @@
   },
   {
     user : "skywalkeryuvi@gmail.com  (from reddit)",
-    userEmail : "skywalkeryuvi@gmail.com.com",
+    userEmail : "skywalkeryuvi@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
+  {
+    user : "lokeswaranaruljothy@gmail.com  (from reddit)",
+    userEmail : "lokeswaranaruljothy@gmail.com",
     userPassword : "password@123",
     usePlan : "trial",
     device : "windows",
