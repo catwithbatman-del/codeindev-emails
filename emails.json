@@ -46,7 +46,7 @@
   },
   {
     user : "warriormyst@gmail.com",
-    userEmail : "warriormyst@gmail.com (from reddit)",
+    userEmail : "warriormyst@gmail.com",
     userPassword : "password@123",
     usePlan : "trial",
     device : "windows",
@@ -55,7 +55,7 @@
   },
   {
     user : "rogue0247@gmail.com",
-    userEmail : "rogue0247@gmail.com (from reddit)",
+    userEmail : "rogue0247@gmail.com",
     userPassword : "password@123",
     usePlan : "trial",
     device : "windows",
@@ -64,7 +64,7 @@
   },
   {
     user : "r8961630@gmail.com",
-    userEmail : "r8961630@gmail.com (from reddit)",
+    userEmail : "r8961630@gmail.com",
     userPassword : "password@123",
     usePlan : "trial",
     device : "windows",
@@ -83,6 +83,15 @@
   {
     user : "djdhruv05082003@gmail.com  (from cluely page)",
     userEmail : "djdhruv05082003@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
+  {
+    user : "harishtiwary23@gmail.com  (from cluely page)",
+    userEmail : "harishtiwary23@gmail.com",
     userPassword : "password@123",
     usePlan : "trial",
     device : "windows",
