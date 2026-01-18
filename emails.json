@@ -251,4 +251,22 @@
     startDate : "18-01-2026",
     trialEndDate : "19-01-2026"
   },
+  {
+    user : "aaweb9a@gmail.com  (from reddit)",
+    userEmail : "aaweb9a@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
+  {
+    user : "dextersasds@duck.com  (from reddit)",
+    userEmail : "dextersasds@duck.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "18-01-2026",
+    trialEndDate : "19-01-2026"
+  },
 ]
