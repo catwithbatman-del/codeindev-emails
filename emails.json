@@ -431,4 +431,13 @@
     startDate : "19-01-2026",
     trialEndDate : "20-01-2026"
   },
+  {
+    user : "therealaisensei@gmail.com (from reddit)",
+    userEmail : "therealaisensei@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "19-01-2026",
+    trialEndDate : "20-01-2026"
+  },
 ]
