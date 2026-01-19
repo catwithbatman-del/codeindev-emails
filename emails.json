@@ -458,4 +458,13 @@
     startDate : "19-01-2026",
     trialEndDate : "20-01-2026"
   },
+  {
+    user : "122.mynaruto@gmail.com (from reddit)",
+    userEmail : "122.mynaruto@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "19-01-2026",
+    trialEndDate : "20-01-2026"
+  },
 ]
