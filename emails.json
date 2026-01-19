@@ -485,4 +485,22 @@
     startDate : "19-01-2026",
     trialEndDate : "20-01-2026"
   },
+  {
+    user : "dprannv@gmail.com (from reddit)",
+    userEmail : "dprannv@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "19-01-2026",
+    trialEndDate : "20-01-2026"
+  },
+  {
+    user : "aanandkumar123f@gmail.com (from reddit)",
+    userEmail : "aanandkumar123f@gmail.com",
+    userPassword : "password@123",
+    usePlan : "trial",
+    device : "windows",
+    startDate : "19-01-2026",
+    trialEndDate : "20-01-2026"
+  },
 ]
