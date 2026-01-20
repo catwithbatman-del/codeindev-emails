@@ -548,4 +548,31 @@
     startDate : "20-01-2026",
     trialEndDate : "20-01-2026"
   },
+  {
+    user : "tharnishp.palanisamy@gmail.com (from reddit)",
+    userEmail : "tharnishp.palanisamy@gmail.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "20-01-2026",
+    trialEndDate : "20-01-2026"
+  },
+  {
+    user : "amanjame123456@gmail.com (from reddit)",
+    userEmail : "amanjame123456@gmail.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "20-01-2026",
+    trialEndDate : "20-01-2026"
+  },
+  {
+    user : "gunupatipavankumar@gmail.com (from reddit)",
+    userEmail : "gunupatipavankumar@gmail.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "20-01-2026",
+    trialEndDate : "20-01-2026"
+  },
 ]
