@@ -9,13 +9,22 @@
     trialEndDate : "12-01-2027"
   },
   {
-    user : "djdhruv05082003@gmail.com (this is paid yearly user - upi - 3000/ api)",
+    user : "djdhruv05082003@gmail.com (this is paid yearly user - upi - 3000/ upi)",
     userEmail : "djdhruv05082003@gmail.com",
     userPassword : "djdhruv@in14",
     usePlan : "yearly/upi",
     device : "windows",
     startDate : "19-01-2026",
     trialEndDate : "19-01-2027"
+  },
+   {
+    user : "sagarjob987@gmail.com (this is paid yearly user - upi - 3500/ upi)",
+    userEmail : "sagarjob987@gmail.com",
+    userPassword : "sagarjob@in15",
+    usePlan : "yearly/upi",
+    device : "windows",
+    startDate : "21-01-2026",
+    trialEndDate : "21-01-2027"
   },
   {
     user : "Roopam",
