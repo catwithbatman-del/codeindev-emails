@@ -611,4 +611,13 @@
     startDate : "20-01-2026",
     trialEndDate : "20-01-2026"
   },
+  {
+    user : "sagarjob987@gmail.com (from reddit)",
+    userEmail : "sagarjob987@gmail.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "20-01-2026",
+    trialEndDate : "20-01-2026"
+  },
 ]
