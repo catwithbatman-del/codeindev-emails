@@ -531,15 +531,6 @@
     trialEndDate : "20-01-2026"
   },
   {
-    user : "deputyje@gmail.com (from reddit)",
-    userEmail : "deputyje@gmail.com",
-    userPassword : "password@123",
-    usePlan : "2 hour access",
-    device : "windows",
-    startDate : "20-01-2026",
-    trialEndDate : "20-01-2026"
-  },
-  {
     user : "johnkennedyvictor13@gmail.com (from reddit)",
     userEmail : "johnkennedyvictor13@gmail.com",
     userPassword : "password@123",
@@ -745,5 +736,14 @@
     device : "windows",
     startDate : "20-01-2026",
     trialEndDate : "20-01-2026"
+  },
+  {
+    user : "riyalucky1717@gmail.com (from reddit)",
+    userEmail : "riyalucky1717@gmail.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "21-01-2026",
+    trialEndDate : "21-01-2026"
   },
 ]
