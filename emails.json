@@ -701,4 +701,22 @@
     startDate : "20-01-2026",
     trialEndDate : "20-01-2026"
   },
+  {
+    user : "piyushayyyy@gmail.com (from reddit)",
+    userEmail : "piyushayyyy@gmail.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "20-01-2026",
+    trialEndDate : "20-01-2026"
+  },
+  {
+    user : "salvarez@me.com (from reddit)",
+    userEmail : "salvarez@me.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "20-01-2026",
+    trialEndDate : "20-01-2026"
+  },
 ]
