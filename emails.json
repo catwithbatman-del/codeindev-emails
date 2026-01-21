@@ -765,8 +765,8 @@
     trialEndDate : "21-01-2026"
   },
   {
-    user : "Bhrath@ymail.com (from reddit)",
-    userEmail : "Bhrath@ymail.com",
+    user : "Bhrath@gmail.com (from reddit)",
+    userEmail : "Bhrath@gmail.com",
     userPassword : "password@123",
     usePlan : "2 hour access",
     device : "windows",
