@@ -746,4 +746,13 @@
     startDate : "21-01-2026",
     trialEndDate : "21-01-2026"
   },
+  {
+    user : "pranavdotdev@gmail.com (from reddit)",
+    userEmail : "pranavdotdev@gmail.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "21-01-2026",
+    trialEndDate : "21-01-2026"
+  },
 ]
