@@ -531,15 +531,6 @@
     trialEndDate : "20-01-2026"
   },
   {
-    user : "joninkage5@gmail.com (from reddit)",
-    userEmail : "joninkage5@gmail.com",
-    userPassword : "password@123",
-    usePlan : "trial",
-    device : "windows",
-    startDate : "19-01-2026",
-    trialEndDate : "20-01-2026"
-  },
-  {
     user : "deputyje@gmail.com (from reddit)",
     userEmail : "deputyje@gmail.com",
     userPassword : "password@123",
