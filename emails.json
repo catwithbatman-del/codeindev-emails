@@ -363,7 +363,61 @@
     user : "janviaditya1007@gmail.com (from reddit)",
     userEmail : "janviaditya1007@gmail.com",
     userPassword : "password@123",
-    usePlan : "2 hour access",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
+  {
+    user : "btsmidsummer@gmail.com (from reddit)",
+    userEmail : "btsmidsummer@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
+  {
+    user : "controman99@gmail.com (from reddit)",
+    userEmail : "controman99@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
+  {
+    user : "nssr221b@gmail.com (from reddit)",
+    userEmail : "nssr221b@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
+  {
+    user : "jeeiit213@gmail.com (from reddit)",
+    userEmail : "jeeiit213@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
+   {
+    user : "kumarabhinav1777@gmail.com (from reddit)",
+    userEmail : "kumarabhinav1777@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
+  {
+    user : "kumarabhinav1777@gmail.com (from reddit)",
+    userEmail : "kumarabhinav1777@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
     device : "windows",
     startDate : "22-01-2026",
     trialEndDate : "23-01-2026"
