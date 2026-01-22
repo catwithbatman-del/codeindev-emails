@@ -27,6 +27,15 @@
     trialEndDate : "21-01-2027"
   },
   {
+    user : "kartheek063@gmail.com (this is paid yearly user - upi - 2800/ upi)",
+    userEmail : "kartheek063@gmail.com",
+    userPassword : "sakartheek@in16",
+    usePlan : "yearly/upi",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "22-01-2027"
+  },
+  {
     user : "Roopam",
     userEmail : "webdevarmyhq@gmail.com",
     userPassword : "password@123",
