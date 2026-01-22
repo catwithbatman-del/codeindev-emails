@@ -476,4 +476,13 @@
     startDate : "22-01-2026",
     trialEndDate : "23-01-2026"
   },
+  {
+    user : "atulkumarb61@gmail.com (from reddit)",
+    userEmail : "atulkumarb61@gmail.com",
+    userPassword : "password@123",
+    usePlan : "3 hour access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
 ]
