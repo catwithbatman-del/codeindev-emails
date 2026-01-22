@@ -350,4 +350,13 @@
     startDate : "22-01-2026",
     trialEndDate : "23-01-2026"
   },
+  {
+    user : "casualcomplexity@gmail.com (from reddit)",
+    userEmail : "casualcomplexity@gmail.com",
+    userPassword : "password@123",
+    usePlan : "2 hour access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
 ]
