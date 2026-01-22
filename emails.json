@@ -467,4 +467,13 @@
     startDate : "22-01-2026",
     trialEndDate : "23-01-2026"
   },
+  {
+    user : "shaikmehboob27@gmail.com (from reddit)",
+    userEmail : "shaikmehboob27@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
 ]
