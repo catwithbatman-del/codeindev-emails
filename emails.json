@@ -356,7 +356,7 @@
     userPassword : "password@123",
     usePlan : "1 day access",
     device : "windows",
-    startDate : "22-01-2026",
-    trialEndDate : "23-01-2026"
+    startDate : "23-01-2026",
+    trialEndDate : "24-01-2026"
   },
 ]
