@@ -9,6 +9,15 @@
     trialEndDate : "12-01-2027"
   },
   {
+    user : "pmeet7877@gmail.com (this is paid yearly user - upi - 3500 - referal from sagarjob987@gmail.com)",
+    userEmail : "pmeet7877@gmail.com",
+    userPassword : "pmeet78@in17",
+    usePlan : "yearly/upi",
+    device : "windows",
+    startDate : "12-01-2026",
+    trialEndDate : "12-01-2027"
+  },
+  {
     user : "djdhruv05082003@gmail.com (this is paid yearly user - upi - 3000/ upi)",
     userEmail : "djdhruv05082003@gmail.com",
     userPassword : "djdhruv@in14",
@@ -308,6 +317,15 @@
   {
     user : "Erick4ko@gmail.com (from reddit)",
     userEmail : "Erick4ko@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
+  {
+    user : "tharnishp.palanisamy@gmail.com (from reddit)",
+    userEmail : "tharnishp.palanisamy@gmail.com",
     userPassword : "password@123",
     usePlan : "1 day access",
     device : "windows",
