@@ -296,4 +296,22 @@
     startDate : "22-01-2026",
     trialEndDate : "23-01-2026"
   },
+  {
+    user : "dhanushshyam@gmail.com (from reddit)",
+    userEmail : "dhanushshyam@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
+  {
+    user : "Erick4ko@gmail.com (from reddit)",
+    userEmail : "Erick4ko@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "22-01-2026",
+    trialEndDate : "23-01-2026"
+  },
 ]
