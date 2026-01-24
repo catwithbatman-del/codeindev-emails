@@ -548,4 +548,40 @@
     startDate : "24-01-2026",
     trialEndDate : "25-01-2026"
   },
+  {
+    user : "achiver.abhinav01@gmail.com (from reddit)",
+    userEmail : "achiver.abhinav01@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "24-01-2026",
+    trialEndDate : "25-01-2026"
+  },
+  {
+    user : "belugamemer7@gmail.com (from reddit)",
+    userEmail : "belugamemer7@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "24-01-2026",
+    trialEndDate : "25-01-2026"
+  },
+  {
+    user : "imrakesh744966@gmail.com (from reddit)",
+    userEmail : "imrakesh744966@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "24-01-2026",
+    trialEndDate : "25-01-2026"
+  },
+  {
+    user : "brewingcoffeeern@gmail.com (from reddit)",
+    userEmail : "brewingcoffeeern@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "24-01-2026",
+    trialEndDate : "25-01-2026"
+  },
 ]
