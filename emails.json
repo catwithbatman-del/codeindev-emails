@@ -584,4 +584,31 @@
     startDate : "24-01-2026",
     trialEndDate : "25-01-2026"
   },
+  {
+    user : "interscope63@gmail.com (from reddit)",
+    userEmail : "interscope63@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "24-01-2026",
+    trialEndDate : "25-01-2026"
+  },
+  {
+    user : "budeti@gmail.com (from reddit)",
+    userEmail : "budeti@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "24-01-2026",
+    trialEndDate : "25-01-2026"
+  },
+  {
+    user : "myfutureself128@gmail.com (from reddit)",
+    userEmail : "myfutureself128@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "24-01-2026",
+    trialEndDate : "25-01-2026"
+  },
 ]
