@@ -521,4 +521,13 @@
     startDate : "24-01-2026",
     trialEndDate : "25-01-2026"
   },
+  {
+    user : "akhilrp.work@gmail.com (from reddit)",
+    userEmail : "akhilrp.work@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "24-01-2026",
+    trialEndDate : "25-01-2026"
+  },
 ]
