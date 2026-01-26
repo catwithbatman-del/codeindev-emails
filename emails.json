@@ -81,6 +81,15 @@
     trialEndDate : "31-12-2035"
   },
   {
+    user : "dan.omenya@gmail.com (1 Year - dodopayment)",
+    userEmail : "dan.omenya@gmail.com",
+    userPassword : "danom@eng12",
+    usePlan : "1 year access",
+    device : "windows",
+    startDate : "26-01-2026",
+    trialEndDate : "25-01-2027"
+  },
+  {
     user : "amankhanna3734@gmail.com (from reddit)",
     userEmail : "amankhanna3734@gmail.com",
     userPassword : "password@123",
