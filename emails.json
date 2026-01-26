@@ -620,4 +620,22 @@
     startDate : "25-01-2026",
     trialEndDate : "26-01-2026"
   },
+  {
+    user : "singhadhiraj0500@gmail.com (from reddit)",
+    userEmail : "singhadhiraj0500@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "25-01-2026",
+    trialEndDate : "26-01-2026"
+  },
+  {
+    user : "pagesinthespotlight@gmail.com (from reddit)",
+    userEmail : "pagesinthespotlight@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "25-01-2026",
+    trialEndDate : "26-01-2026"
+  },
 ]
