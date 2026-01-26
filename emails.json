@@ -602,4 +602,22 @@
     startDate : "25-01-2026",
     trialEndDate : "26-01-2026"
   },
+  {
+    user : "ibrahimmustafa451@gmail.com (from reddit)",
+    userEmail : "ibrahimmustafa451@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "25-01-2026",
+    trialEndDate : "26-01-2026"
+  },
+  {
+    user : "wleo37@gmail.com (from reddit)",
+    userEmail : "wleo37@gmail.com",
+    userPassword : "password@123",
+    usePlan : "1 day access",
+    device : "windows",
+    startDate : "25-01-2026",
+    trialEndDate : "26-01-2026"
+  },
 ]
