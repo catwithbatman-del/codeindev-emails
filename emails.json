@@ -149,4 +149,14 @@
     "planEndDate": "31-02-2026",
     "deviceAllowed": 1
   },
+  {
+    "user": "Aa1820318@gmail.com (trial)",
+    "userEmail": "Aa1820318@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 hour access",
+    "device": "windows",
+    "startDate": "30-01-2026",
+    "planEndDate": "31-02-2026",
+    "deviceAllowed": 1
+  },
 ]
