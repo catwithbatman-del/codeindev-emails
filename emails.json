@@ -99,6 +99,16 @@
     "planEndDate": "25-01-2027",
     "deviceAllowed": 1
   },
+  {
+    "user": "tavleenbajwa8@gmail.com (1 Year - dodopayment)",
+    "userEmail": "tavleenbajwa8@gmail.com",
+    "userPassword": "Tavleen@in18",
+    "usePlan": "1 year access",
+    "device": "windows",
+    "startDate": "30-01-2026",
+    "planEndDate": "29-01-2027",
+    "deviceAllowed": 1
+  },
    {
     "user": "helloccindia@gmail.com (1 Year - dodopayment)",
     "userEmail": "helloccindia@gmail.com",
