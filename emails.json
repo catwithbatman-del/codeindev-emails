@@ -110,12 +110,12 @@
     "deviceAllowed": 1
   },
    {
-    "user": "helloccindia@gmail.com (1 Year - dodopayment)",
+    "user": "helloccindia@gmail.com",
     "userEmail": "helloccindia@gmail.com",
     "userPassword": "cheatingdev@123",
     "usePlan": "1 days access",
     "device": "windows",
-    "startDate": 30-01-2026",
+    "startDate": "30-01-2026",
     "planEndDate": "31-01-2026",
     "deviceAllowed": 1
   },
