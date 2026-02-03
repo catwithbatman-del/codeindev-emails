@@ -129,4 +129,14 @@
     "planEndDate": "01-02-2027",
     "deviceAllowed": 1
   },
+  {
+    "user": "Mixtelligence@gmail.com (from reddit)",
+    "userEmail": "Mixtelligence@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "03-02-2026",
+    "planEndDate": "05-02-2026",
+    "deviceAllowed": 1
+  },
 ]
