@@ -130,6 +130,16 @@
     "deviceAllowed": 1
   },
   {
+    "user": "sanjivpatil57@gmail.com (monthly sub)",
+    "userEmail": "sanjivpatil57@gmail.com",
+    "userPassword": "sanjiv@in19",
+    "usePlan": "1 month access",
+    "device": "windows",
+    "startDate": "04-02-2026",
+    "planEndDate": "03-03-2026",
+    "deviceAllowed": 1
+  },
+  {
     "user": "Mixtelligence@gmail.com (from reddit)",
     "userEmail": "Mixtelligence@gmail.com",
     "userPassword": "cheatingdev@123",
@@ -169,4 +179,5 @@
     "planEndDate": "05-02-2026",
     "deviceAllowed": 1
   },
+  
 ]
