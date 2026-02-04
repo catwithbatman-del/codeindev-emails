@@ -179,5 +179,14 @@
     "planEndDate": "05-02-2026",
     "deviceAllowed": 1
   },
-  
+  {
+    "user": "naveen32bvr@gmail.com (from reddit)",
+    "userEmail": "naveen32bvr@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "03-02-2026",
+    "planEndDate": "05-02-2026",
+    "deviceAllowed": 1
+  },
 ]
