@@ -140,6 +140,16 @@
     "deviceAllowed": 1
   },
   {
+    "user": "satyaranjan.swain.dev@gmail.com (1 Year - dodopayment)",
+    "userEmail": "satyaranjan.swain.dev@gmail.com",
+    "userPassword": "Satyara@in20",
+    "usePlan": "1 year access",
+    "device": "macos",
+    "startDate": "02-02-2026",
+    "planEndDate": "01-02-2027",
+    "deviceAllowed": 1
+  },
+  {
     "user": "Mixtelligence@gmail.com (from reddit)",
     "userEmail": "Mixtelligence@gmail.com",
     "userPassword": "cheatingdev@123",
