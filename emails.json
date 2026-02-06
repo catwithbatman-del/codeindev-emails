@@ -209,4 +209,14 @@
     "planEndDate": "07-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "threadgrab@gmail.com (from reddit)",
+    "userEmail": "threadgrab@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days trial access",
+    "device": "macos",
+    "startDate": "06-02-2026",
+    "planEndDate": "08-02-2026",
+    "deviceAllowed": 1
+  },
 ]
