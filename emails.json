@@ -239,4 +239,14 @@
     "planEndDate": "07-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "sanket7.dev@gmail.com (from new reddit)",
+    "userEmail": "sanket7.dev@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "06-02-2026",
+    "planEndDate": "07-02-2026",
+    "deviceAllowed": 1
+  },
 ]
