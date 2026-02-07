@@ -199,4 +199,14 @@
     "planEndDate": "07-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "ajaymahto679@gmail.com (from new reddit)",
+    "userEmail": "ajaymahto679@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "06-02-2026",
+    "planEndDate": "07-02-2026",
+    "deviceAllowed": 1
+  },
 ]
