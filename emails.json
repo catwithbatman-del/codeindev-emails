@@ -210,13 +210,43 @@
     "deviceAllowed": 1
   },
    {
-    "user": "threadgrab@gmail.com (from reddit)",
+    "user": "threadgrab@gmail.com (from dodo)",
     "userEmail": "threadgrab@gmail.com",
     "userPassword": "cheatingdev@123",
     "usePlan": "2 days trial access",
     "device": "macos",
     "startDate": "06-02-2026",
     "planEndDate": "08-02-2026",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "aasshhmmoo@gmail.com (from reddit)",
+    "userEmail": "aasshhmmoo@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "06-02-2026",
+    "planEndDate": "07-02-2026",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "buddysaga01@gmail.com (from reddit)",
+    "userEmail": "buddysaga01@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "06-02-2026",
+    "planEndDate": "07-02-2026",
+    "deviceAllowed": 1
+  },
+ {
+    "user": "addoo96@gmail.com (from reddit)",
+    "userEmail": "addoo96@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "06-02-2026",
+    "planEndDate": "07-02-2026",
     "deviceAllowed": 1
   },
 ]
