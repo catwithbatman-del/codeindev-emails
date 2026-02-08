@@ -309,4 +309,15 @@
     "planEndDate": "10-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "alexgaming2411@gmail.com (from new reddit)",
+    "userEmail": "alexgaming2411@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "09-02-2026",
+    "planEndDate": "10-02-2026",
+    "deviceAllowed": 1
+  },
+   
 ]
