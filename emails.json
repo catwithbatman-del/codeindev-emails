@@ -359,4 +359,24 @@
     "planEndDate": "10-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "biyek54891@helesco.com (from new reddit)",
+    "userEmail": "biyek54891@helesco.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "09-02-2026",
+    "planEndDate": "10-02-2026",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "jacobkurian2004@gmail.com (from new reddit)",
+    "userEmail": "jacobkurian2004@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "09-02-2026",
+    "planEndDate": "10-02-2026",
+    "deviceAllowed": 1
+  },
 ]
