@@ -149,6 +149,16 @@
     "planEndDate": "04-02-2027",
     "deviceAllowed": 1
   },
+    {
+    "user": "anwar.ejaz181@gmail.com (this is paid yearly user - upi - 3000)",
+    "userEmail": "anwar.ejaz181@gmail.com",
+    "userPassword": "anwareje@in20",
+    "usePlan": "yearly/upi",
+    "device": "windows",
+    "startDate": "12-01-2026",
+    "planEndDate": "12-01-2027",
+    "deviceAllowed": 1
+  },
    {
     "user": "kummarnavneet@gmail.com (from new reddit)",
     "userEmail": "kummarnavneet@gmail.com",
