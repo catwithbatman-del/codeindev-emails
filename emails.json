@@ -156,37 +156,7 @@
     "usePlan": "yearly/upi",
     "device": "windows",
     "startDate": "08-02-2026",
-    "planEndDate": "17-02-2027",
-    "deviceAllowed": 1
-  },
-   {
-    "user": "kummarnavneet@gmail.com (from new reddit)",
-    "userEmail": "kummarnavneet@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "2 days access",
-    "device": "macos",
-    "startDate": "06-02-2026",
-    "planEndDate": "07-02-2026",
-    "deviceAllowed": 1
-  },
-   {
-    "user": "sanket7.dev@gmail.com (from new reddit)",
-    "userEmail": "sanket7.dev@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "2 days access",
-    "device": "macos",
-    "startDate": "06-02-2026",
-    "planEndDate": "07-02-2026",
-    "deviceAllowed": 1
-  },
-    {
-    "user": "hawksteven136@gmail.com (from new reddit)",
-    "userEmail": "hawksteven136@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "2 days access",
-    "device": "macos",
-    "startDate": "06-02-2026",
-    "planEndDate": "07-02-2026",
+    "planEndDate": "07-02-2027",
     "deviceAllowed": 1
   },
    {
