@@ -159,6 +159,16 @@
     "planEndDate": "07-02-2027",
     "deviceAllowed": 1
   },
+       {
+    "user": "kummarnavneet@gmail.com (yearly - dodopayment)",
+    "userEmail": "kummarnavneet@gmail.com",
+    "userPassword": "Navneetku@in21",
+    "usePlan": "yearly/upi",
+    "device": "windows",
+    "startDate": "09-02-2026",
+    "planEndDate": "08-03-2027",
+    "deviceAllowed": 1
+  },
    {
     "user": "shrivastavautkarsh21@gmail.com (from new reddit)",
     "userEmail": "shrivastavautkarsh21@gmail.com",
@@ -407,16 +417,6 @@
     "device": "macos",
     "startDate": "09-02-2026",
     "planEndDate": "10-02-2026",
-    "deviceAllowed": 1
-  },
-   {
-    "user": "kummarnavneet@gmail.com (from new reddit)",
-    "userEmail": "kummarnavneet@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "2 days access",
-    "device": "macos",
-    "startDate": "06-02-2026",
-    "planEndDate": "07-02-2026",
     "deviceAllowed": 1
   },
 ]
