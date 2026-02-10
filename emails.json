@@ -299,4 +299,14 @@
     "planEndDate": "11-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "rutvikmoradiya@brledu.org (from new reddit)",
+    "userEmail": "rutvikmoradiya@brledu.org",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 days access",
+    "device": "macos",
+    "startDate": "10-02-2026",
+    "planEndDate": "11-02-2026",
+    "deviceAllowed": 1
+  },
 ]
