@@ -269,4 +269,24 @@
     "planEndDate": "12-02-2026",
     "deviceAllowed": 1
   },
+    {
+    "user": "atstars11@gmail.com (from new reddit)",
+    "userEmail": "atstars11@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 days access",
+    "device": "macos",
+    "startDate": "10-02-2026",
+    "planEndDate": "11-02-2026",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "interscope63@gmail.com (from new reddit)",
+    "userEmail": "interscope63@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 days access",
+    "device": "macos",
+    "startDate": "10-02-2026",
+    "planEndDate": "11-02-2026",
+    "deviceAllowed": 1
+  },
 ]
