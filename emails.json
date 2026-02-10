@@ -219,4 +219,14 @@
     "planEndDate": "12-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "neflixshared82725@gmail.com (from new reddit)",
+    "userEmail": "neflixshared82725@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "10-02-2026",
+    "planEndDate": "12-02-2026",
+    "deviceAllowed": 1
+  },
 ]
