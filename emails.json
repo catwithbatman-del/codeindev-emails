@@ -19,6 +19,26 @@
     "planEndDate": "30-02-2026",
     "deviceAllowed": 1
   },
+    {
+    "user": "soumykumar24@gmail.com (6 months access - upi - 2000)",
+    "userEmail": "soumykumar24@gmail.com",
+    "userPassword": "soumyak@in21",
+    "usePlan": "1 days access",
+    "device": "macos",
+    "startDate": "11-02-2026",
+    "planEndDate": "10-08-2026",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "kummarnavneet@gmail.com (yearly - upi - 4430)",
+    "userEmail": "kummarnavneet@gmail.com",
+    "userPassword": "Navneetku@in21",
+    "usePlan": "yearly/upi",
+    "device": "windows",
+    "startDate": "09-02-2026",
+    "planEndDate": "08-03-2027",
+    "deviceAllowed": 1
+  },
   {
     "user": "anandhegde9999@gmail.com (this is paid yearly user - upi - 3500)",
     "userEmail": "anandhegde9999@gmail.com",
@@ -157,16 +177,6 @@
     "device": "windows",
     "startDate": "08-02-2026",
     "planEndDate": "07-02-2027",
-    "deviceAllowed": 1
-  },
-       {
-    "user": "kummarnavneet@gmail.com (yearly - upi - 4430)",
-    "userEmail": "kummarnavneet@gmail.com",
-    "userPassword": "Navneetku@in21",
-    "usePlan": "yearly/upi",
-    "device": "windows",
-    "startDate": "09-02-2026",
-    "planEndDate": "08-03-2027",
     "deviceAllowed": 1
   },
    {
