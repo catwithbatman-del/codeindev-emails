@@ -249,4 +249,14 @@
     "planEndDate": "11-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "11222758_ajaj@mmumullana.org (from new reddit)",
+    "userEmail": "11222758_ajaj@mmumullana.org",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "15-02-2026",
+    "planEndDate": "17-02-2026",
+    "deviceAllowed": 1
+  },
 ]
