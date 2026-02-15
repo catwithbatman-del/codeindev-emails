@@ -429,4 +429,34 @@
     "planEndDate": "17-02-2026",
     "deviceAllowed": 1
   },
+   {
+    "user": "kajaasfaq@gmail.com (from new reddit)",
+    "userEmail": "kajaasfaq@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "16-02-2026",
+    "planEndDate": "17-02-2026",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "adityajoshihld11@gmail.com (from new reddit)",
+    "userEmail": "adityajoshihld11@gmail.com,
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "16-02-2026",
+    "planEndDate": "17-02-2026",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "n924436@gmail.com (from new reddit)",
+    "userEmail": "n924436@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "16-02-2026",
+    "planEndDate": "17-02-2026",
+    "deviceAllowed": 1
+  },
 ]
