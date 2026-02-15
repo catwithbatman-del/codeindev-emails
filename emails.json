@@ -189,14 +189,24 @@
     "planEndDate": "11-02-2026",
     "deviceAllowed": 1
   },
-    {
-    "user": "Sancodecal@gmail.com (from new reddit)",
-    "userEmail": "Sancodecal@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "1 days access",
+   {
+    "user": "cloudrift001@gmail.com (1 Year - dodopayment)",
+    "userEmail": "cloudrift001@gmail.com",
+    "userPassword": "cloudr@in22",
+    "usePlan": "1 year access",
     "device": "macos",
-    "startDate": "10-02-2026",
-    "planEndDate": "11-02-2026",
+    "startDate": "13-02-2026",
+    "planEndDate": "12-02-2027",
+    "deviceAllowed": 1
+  },
+    {
+    "user": "sukeshsesham9@gmail.comm (from new reddit)",
+    "userEmail": "sukeshsesham9@gmail.com",
+    "userPassword": "sukeshs@in23",
+    "usePlan": "1 year access",
+    "device": "macos",
+    "startDate": "15-02-2026",
+    "planEndDate": "14-02-2027",
     "deviceAllowed": 1
   },
     {
