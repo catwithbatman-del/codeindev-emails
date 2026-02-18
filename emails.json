@@ -439,4 +439,24 @@
     "planEndDate": "17-02-2026",
     "deviceAllowed": 1
   },
+    {
+    "user": "crce.9026.me@gmail.com (from new reddit)",
+    "userEmail": "crce.9026.me@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "16-02-2026",
+    "planEndDate": "17-02-2026",
+    "deviceAllowed": 1
+  },
+    {
+    "user": "hintim77@gmail.com (from new reddit)",
+    "userEmail": "hintim77@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 days access",
+    "device": "macos",
+    "startDate": "16-02-2026",
+    "planEndDate": "17-02-2026",
+    "deviceAllowed": 1
+  },
 ]
