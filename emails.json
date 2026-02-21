@@ -215,8 +215,8 @@
     "userPassword": "sushantj@in24",
     "usePlan": "1 year access",
     "device": "windows",
-    "startDate": "18-02-2026",
-    "planEndDate": "17-02-2027",
+    "startDate": "21-02-2026",
+    "planEndDate": "23-02-2027",
     "deviceAllowed": 1
   },
    {
@@ -225,8 +225,8 @@
     "userPassword": "sushantj@in24",
     "usePlan": "1 year access",
     "device": "windows",
-    "startDate": "18-02-2026",
-    "planEndDate": "17-02-2027",
+    "startDate": "21-02-2026",
+    "planEndDate": "23-02-2027",
     "deviceAllowed": 1
   },
    {
@@ -235,8 +235,8 @@
     "userPassword": "sushantj@in24",
     "usePlan": "1 year access",
     "device": "windows",
-    "startDate": "18-02-2026",
-    "planEndDate": "17-02-2027",
+    "startDate": "21-02-2026",
+    "planEndDate": "23-02-2027",
     "deviceAllowed": 1
   },
    {
@@ -245,8 +245,18 @@
     "userPassword": "sushantj@in24",
     "usePlan": "1 year access",
     "device": "windows",
-    "startDate": "18-02-2026",
-    "planEndDate": "17-02-2027",
+    "startDate": "21-02-2026",
+    "planEndDate": "23-02-2027",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "bharathtech08@gmail.com (reddit)",
+    "userEmail": "bharathtech08@gmail.com",
+    "userPassword": "sushantj@in24",
+    "usePlan": "1 year access",
+    "device": "windows",
+    "startDate": "21-02-2026",
+    "planEndDate": "23-02-2027",
     "deviceAllowed": 1
   },
 ]
