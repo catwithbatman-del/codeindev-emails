@@ -209,4 +209,14 @@
     "planEndDate": "17-02-2027",
     "deviceAllowed": 1
   },
+   {
+    "user": "ramsaketh321@gmail.com (1 Year - dodopayment)",
+    "userEmail": "ramsaketh321@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 year access",
+    "device": "windows",
+    "startDate": "18-02-2026",
+    "planEndDate": "17-02-2027",
+    "deviceAllowed": 1
+  },
 ]
