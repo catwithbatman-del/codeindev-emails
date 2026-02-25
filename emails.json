@@ -214,9 +214,19 @@
     "userEmail": "ramsaketh321@gmail.com",
     "userPassword": "ramsak@in25",
     "usePlan": "1 year access",
-    "device": "windows",
+    "device": "macos",
     "startDate": "24-02-2026",
     "planEndDate": "23-02-2027",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "Lkda4700@gmail.com (from reddit)",
+    "userEmail": "Lkda4700@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 year access",
+    "device": "windows",
+    "startDate": "25-02-2026",
+    "planEndDate": "27-02-2027",
     "deviceAllowed": 1
   },
 ]
