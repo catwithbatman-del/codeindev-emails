@@ -220,23 +220,33 @@
     "deviceAllowed": 1
   },
    {
-    "user": "Lkda4700@gmail.com (from reddit)",
-    "userEmail": "Lkda4700@gmail.com",
+    "user": "kiranrajganesan16@gmail.com (from reddit)",
+    "userEmail": "kiranrajganesan16@gmail.com",
     "userPassword": "cheatingdev@123",
     "usePlan": "2 day access",
     "device": "windows",
-    "startDate": "25-02-2026",
-    "planEndDate": "27-02-2027",
+    "startDate": "28-02-2026",
+    "planEndDate": "02-03-2027",
     "deviceAllowed": 1
   },
    {
-    "user": "rajesh.w61@gmail.com (from reddit)",
-    "userEmail": "rajesh.w61@gmail.com",
+    "user": "canita766@gmail.com (from reddit)",
+    "userEmail": "canita766@gmail.com",
     "userPassword": "cheatingdev@123",
     "usePlan": "2 day access",
     "device": "windows",
-    "startDate": "25-02-2026",
-    "planEndDate": "27-02-2027",
+    "startDate": "28-02-2026",
+    "planEndDate": "02-03-2027",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "kasibsiddiqui1234@gmail.com (from reddit)",
+    "userEmail": "kasibsiddiqui1234@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "2 day access",
+    "device": "windows",
+    "startDate": "28-02-2026",
+    "planEndDate": "02-03-2027",
     "deviceAllowed": 1
   },
 ]
