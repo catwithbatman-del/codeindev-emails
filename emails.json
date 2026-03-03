@@ -10,7 +10,7 @@
     "deviceAllowed": 1
   },
   {
-    "user": "kumar.ashish72809@gmail.com (EXPIRED : 1 month reddit upi - 800)",
+    "user": "kumar.ashish72809@gmail.com (expired 1 month reddit upi - 800)",
     "userEmail": "roopamgupta68@gmail.com",
     "userPassword": "cheatingdev@123",
     "usePlan": "1 month access",
@@ -258,5 +258,5 @@
     "startDate": "28-02-2026",
     "planEndDate": "02-03-2027",
     "deviceAllowed": 1
-  },
+  }
 ]
