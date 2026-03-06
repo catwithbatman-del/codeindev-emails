@@ -238,5 +238,15 @@
     "startDate": "06-03-2026",
     "planEndDate": "07-03-2026",
     "deviceAllowed": 1
+  },
+  {
+    "user": "tarunlearn2026@gmail.com (from reddit)",
+    "userEmail": "tarunlearn2026@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "06-03-2026",
+    "planEndDate": "07-03-2026",
+    "deviceAllowed": 1
   }
 ]
