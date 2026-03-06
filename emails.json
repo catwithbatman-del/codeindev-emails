@@ -228,5 +228,15 @@
     "startDate": "06-03-2026",
     "planEndDate": "07-03-2026",
     "deviceAllowed": 1
+  },
+  {
+    "user": "Ivampirepapi@gmail.com (from reddit)",
+    "userEmail": "Ivampirepapi@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "06-03-2026",
+    "planEndDate": "07-03-2026",
+    "deviceAllowed": 1
   }
 ]
