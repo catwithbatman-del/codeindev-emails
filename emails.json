@@ -220,13 +220,23 @@
     "deviceAllowed": 1
   },
   {
-    "user": "rahulsahuiitb@gmail.com (from reddit)",
-    "userEmail": "rahulsahuiitb@gmail.com",
-    "userPassword": "cheatingdev@123",
+    "user": "mbaez744@gmail.com (1 year - dodopayment)",
+    "userEmail": "mbaez744@gmail.com",
+    "userPassword": "mauricioba@us26",
+    "usePlan": "lifetime",
+    "device": "windows",
+    "startDate": "03-02-2026",
+    "planEndDate": "03-02-2027",
+    "deviceAllowed": 1
+  },
+  {
+    "user": "fadul.sikder@gmail.com (from reddit)",
+    "userEmail": "fadul.sikder@gmail.com",
+    "userPassword": "fadulso@us27",
     "usePlan": "1 day access",
     "device": "windows",
-    "startDate": "06-03-2026",
-    "planEndDate": "07-03-2026",
+    "startDate": "10-03-2026",
+    "planEndDate": "09-03-2026",
     "deviceAllowed": 1
   }
 ]
