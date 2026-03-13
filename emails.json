@@ -278,5 +278,15 @@
     "startDate": "13-03-2026",
     "planEndDate": "15-03-2026",
     "deviceAllowed": 1
+  },
+  {
+    "user": "Zubairali11421@gmail.com (reddit)",
+    "userEmail": "Zubairali11421@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "13-03-2026",
+    "planEndDate": "15-03-2026",
+    "deviceAllowed": 1
   }
 ]
