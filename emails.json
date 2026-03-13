@@ -258,5 +258,25 @@
     "startDate": "10-03-2026",
     "planEndDate": "09-03-2026",
     "deviceAllowed": 1
+  },
+  {
+    "user": "karthik.14.11.1986@gmail.com (reddit)",
+    "userEmail": "karthik.14.11.1986@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "13-03-2026",
+    "planEndDate": "15-03-2026",
+    "deviceAllowed": 1
+  },
+  {
+    "user": "kiran.kumar.tangirala@gmail.com (reddit)",
+    "userEmail": "kiran.kumar.tangirala@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "13-03-2026",
+    "planEndDate": "15-03-2026",
+    "deviceAllowed": 1
   }
 ]
