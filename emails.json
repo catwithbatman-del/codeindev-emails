@@ -220,19 +220,19 @@
     "deviceAllowed": 1
   },
   {
-    "user": "mbaez744@gmail.com (1 year - dodopayment)",
-    "userEmail": "mbaez744@gmail.com",
-    "userPassword": "mauricioba@us26",
-    "usePlan": "lifetime",
-    "device": "windows",
-    "startDate": "03-02-2026",
-    "planEndDate": "03-02-2027",
-    "deviceAllowed": 1
-  },
-  {
     "user": "fadul.sikder@gmail.com (1 year - dodopayment)",
     "userEmail": "fadul.sikder@gmail.com",
     "userPassword": "fadulsi@us27",
+    "usePlan": "1 year access",
+    "device": "windows",
+    "startDate": "10-03-2026",
+    "planEndDate": "09-03-2027",
+    "deviceAllowed": 1
+  },
+  {
+    "user": "rithiksharon.a@gmail.com (1 year - dodopayment)",
+    "userEmail": "rithiksharon.a@gmail.com",
+    "userPassword": "rithiksh@in31",
     "usePlan": "1 year access",
     "device": "windows",
     "startDate": "10-03-2026",
