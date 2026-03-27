@@ -298,5 +298,15 @@
     "startDate": "28-03-2026",
     "planEndDate": "29-03-2027",
     "deviceAllowed": 1
+  },
+  {
+    "user": "dasharunav@gmail.com (1 day - trial)",
+    "userEmail": "dasharunav@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "28-03-2026",
+    "planEndDate": "29-03-2027",
+    "deviceAllowed": 1
   }
 ]
