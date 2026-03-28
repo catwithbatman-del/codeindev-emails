@@ -368,5 +368,15 @@
     "startDate": "28-03-2026",
     "planEndDate": "29-03-2027",
     "deviceAllowed": 1
+  },
+  {
+    "user": "offibhagirathsinh1998@gmail.com (1 day - trial)",
+    "userEmail": "offibhagirathsinh1998@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "28-03-2026",
+    "planEndDate": "29-03-2027",
+    "deviceAllowed": 1
   }
 ]
