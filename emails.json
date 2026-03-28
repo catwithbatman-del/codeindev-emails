@@ -328,5 +328,35 @@
     "startDate": "28-03-2026",
     "planEndDate": "29-03-2027",
     "deviceAllowed": 1
+  },
+  {
+    "user": "saibharadwaj.vedula@gmail.com (1 day - trial)",
+    "userEmail": "saibharadwaj.vedula@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "28-03-2026",
+    "planEndDate": "29-03-2027",
+    "deviceAllowed": 1
+  },
+  {
+    "user": "satoshimiles6666@gmail.com (1 day - trial)",
+    "userEmail": "satoshimiles6666@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "28-03-2026",
+    "planEndDate": "29-03-2027",
+    "deviceAllowed": 1
+  },
+  {
+    "user": "adieu5152@gmail.com (1 day - trial)",
+    "userEmail": "adieu5152@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "28-03-2026",
+    "planEndDate": "29-03-2027",
+    "deviceAllowed": 1
   }
 ]
