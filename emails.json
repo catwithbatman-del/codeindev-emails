@@ -308,5 +308,25 @@
     "startDate": "14-04-2026",
     "planEndDate": "16-03-2027",
     "deviceAllowed": 1
+  },
+    {
+    "user": "ochecodes@gmail.com (1 day - trial)",
+    "userEmail": "ochecodes@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "14-04-2026",
+    "planEndDate": "16-03-2027",
+    "deviceAllowed": 1
+  },
+    {
+    "user": "swastika2103singh@gmail.com (1 day - trial)",
+    "userEmail": "swastika2103singh@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "14-04-2026",
+    "planEndDate": "16-03-2027",
+    "deviceAllowed": 1
   }
 ]
