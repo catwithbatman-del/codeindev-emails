@@ -250,8 +250,28 @@
     "deviceAllowed": 1
   },
     {
-    "user": "yash7raut@gmail.com (1 day - trial)",
-    "userEmail": "yash7raut@gmail.com",
+    "user": "saad5538@gmail.com (1 day - trial)",
+    "userEmail": "saad5538@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "14-04-2026",
+    "planEndDate": "16-03-2027",
+    "deviceAllowed": 1
+  },
+     {
+    "user": "mailforcap012@gmail.com (1 day - trial)",
+    "userEmail": "mailforcap012@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day access",
+    "device": "windows",
+    "startDate": "14-04-2026",
+    "planEndDate": "16-03-2027",
+    "deviceAllowed": 1
+  },
+     {
+    "user": "clasherworld321@gmail.com (1 day - trial)",
+    "userEmail": "clasherworld321@gmail.com",
     "userPassword": "cheatingdev@123",
     "usePlan": "1 day access",
     "device": "windows",
@@ -260,8 +280,8 @@
     "deviceAllowed": 1
   },
     {
-    "user": "udtapanchi18@gmail.com (1 day - trial)",
-    "userEmail": "udtapanchi18@gmail.com",
+    "user": "ampoluyaswanth2002@gmail.com (1 day - trial)",
+    "userEmail": "ampoluyaswanth2002@gmail.com",
     "userPassword": "cheatingdev@123",
     "usePlan": "1 day access",
     "device": "windows",
@@ -270,18 +290,8 @@
     "deviceAllowed": 1
   },
     {
-    "user": "Birshivranooooo@gmail.com (1 day - trial)",
-    "userEmail": "Birshivranooooo@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "1 day access",
-    "device": "windows",
-    "startDate": "14-04-2026",
-    "planEndDate": "16-03-2027",
-    "deviceAllowed": 1
-  },
-    {
-    "user": "Birshivranooooo@gmail.com (1 day - trial)",
-    "userEmail": "Birshivranooooo@gmail.com",
+    "user": "thandonoe.ndlovu@gmail.com (1 day - trial)",
+    "userEmail": "thandonoe.ndlovu@gmail.com",
     "userPassword": "cheatingdev@123",
     "usePlan": "1 day access",
     "device": "windows",
