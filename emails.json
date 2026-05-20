@@ -248,5 +248,15 @@
     "startDate": "30-03-2026",
     "planEndDate": "29-03-2027",
     "deviceAllowed": 1
+  },
+   {
+    "user": "roopamgupta68@gmail.com (6 months access - upi - 2000)",
+    "userEmail": "roopamgupta68@gmail.com",
+    "userPassword": "maalik@in21",
+    "usePlan": "1 days access",
+    "device": "macos",
+    "startDate": "11-02-2026",
+    "planEndDate": "10-08-2026",
+    "deviceAllowed": 1
   }
 ]
