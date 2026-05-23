@@ -258,5 +258,15 @@
     "startDate": "11-02-2026",
     "planEndDate": "10-08-2026",
     "deviceAllowed": 1
+  },
+    {
+    "user": "hedc2@gmail.com (1 months access - upi - 800)",
+    "userEmail": "thedc2@gmail.com",
+    "userPassword": "dhruv@in47",
+    "usePlan": "1 month access",
+    "device": "macos",
+    "startDate": "23-05-2026",
+    "planEndDate": "22-06-2026",
+    "deviceAllowed": 1
   }
 ]
