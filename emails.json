@@ -288,5 +288,15 @@
     "startDate": "24-05-2026",
     "planEndDate": "25-05-2026",
     "deviceAllowed": 1
+  },
+    {
+    "user": "satvik90110@gmail.com (trial)",
+    "userEmail": "satvik90110@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 day",
+    "device": "macos",
+    "startDate": "24-05-2026",
+    "planEndDate": "25-05-2026",
+    "deviceAllowed": 1
   }
 ]
