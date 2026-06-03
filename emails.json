@@ -288,5 +288,15 @@
     "startDate": "03-06-2026",
     "planEndDate": "04-06-2026",
     "deviceAllowed": 1
+  },
+    {
+    "user": "akashguptaanpara@gmail.com (trial)",
+    "userEmail": "akashguptaanpara@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 year access",
+    "device": "macos",
+    "startDate": "03-06-2026",
+    "planEndDate": "04-06-2026",
+    "deviceAllowed": 1
   }
 ]
