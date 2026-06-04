@@ -298,5 +298,25 @@
     "startDate": "03-06-2026",
     "planEndDate": "04-06-2026",
     "deviceAllowed": 1
+  },
+    {
+    "user": "nikhil.spe1@gmail.com (trial)",
+    "userEmail": "nikhil.spe1@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 year access",
+    "device": "macos",
+    "startDate": "03-06-2026",
+    "planEndDate": "04-06-2026",
+    "deviceAllowed": 1
+  },
+    {
+    "user": "sambasivaraovk@gmail.com (trial)",
+    "userEmail": "sambasivaraovk@gmail.com",
+    "userPassword": "cheatingdev@123",
+    "usePlan": "1 year access",
+    "device": "macos",
+    "startDate": "03-06-2026",
+    "planEndDate": "04-06-2026",
+    "deviceAllowed": 1
   }
 ]
