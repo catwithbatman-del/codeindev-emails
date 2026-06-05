@@ -278,55 +278,5 @@
     "startDate": "03-06-2026",
     "planEndDate": "02-06-2027",
     "deviceAllowed": 1
-  },
-    {
-    "user": "ankit7359@gmail.com (trial)",
-    "userEmail": "ankit7359@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "1 year access",
-    "device": "macos",
-    "startDate": "03-06-2026",
-    "planEndDate": "04-06-2026",
-    "deviceAllowed": 1
-  },
-    {
-    "user": "akashguptaanpara@gmail.com (trial)",
-    "userEmail": "akashguptaanpara@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "1 year access",
-    "device": "macos",
-    "startDate": "03-06-2026",
-    "planEndDate": "04-06-2026",
-    "deviceAllowed": 1
-  },
-    {
-    "user": "nikhil.spe1@gmail.com (trial)",
-    "userEmail": "nikhil.spe1@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "1 year access",
-    "device": "macos",
-    "startDate": "03-06-2026",
-    "planEndDate": "04-06-2026",
-    "deviceAllowed": 1
-  },
-    {
-    "user": "sambasivaraovk@gmail.com (trial)",
-    "userEmail": "sambasivaraovk@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "1 year access",
-    "device": "macos",
-    "startDate": "03-06-2026",
-    "planEndDate": "04-06-2026",
-    "deviceAllowed": 1
-  },
-    {
-    "user": "sudhini0306@gmail.com (trial)",
-    "userEmail": "sudhini0306@gmail.com",
-    "userPassword": "cheatingdev@123",
-    "usePlan": "1 year access",
-    "device": "macos",
-    "startDate": "03-06-2026",
-    "planEndDate": "04-06-2026",
-    "deviceAllowed": 1
   }
 ]
