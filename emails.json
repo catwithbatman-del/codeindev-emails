@@ -268,5 +268,15 @@
     "startDate": "03-06-2026",
     "planEndDate": "02-06-2027",
     "deviceAllowed": 1
+  },
+    {
+    "user": "kesavnagendra3@gmail.com (1 year access - dodo)",
+    "userEmail": "kesavnagendra3@gmail.com",
+    "userPassword": "keshav@in74",
+    "usePlan": "1 year access",
+    "device": "macos",
+    "startDate": "31-07-2026",
+    "planEndDate": "31-07-2027",
+    "deviceAllowed": 1
   }
 ]
