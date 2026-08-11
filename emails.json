@@ -80,7 +80,7 @@
     "deviceAllowed": 1
   },
   {
-    "user": "Emilio Trenzado (Paid - dodopayments)",
+    "user": "Emilio Trenzado (lifetimePaid - dodopayments)",
     "userEmail": "emiliouf@gmail.com",
     "userPassword": "Emilio@us23",
     "usePlan": "lifetime",
@@ -90,13 +90,23 @@
     "deviceAllowed": 1
   },
   {
-    "user": "Prof (Paid - dodopayments)",
+    "user": "Prof (lifetime Paid - dodopayments)",
     "userEmail": "profben63@gmail.com",
     "userPassword": "profben@us24",
     "usePlan": "lifetime",
     "device": "windows",
     "startDate": "31-12-2025",
     "planEndDate": "31-12-2035",
+    "deviceAllowed": 1
+  },
+    {
+    "user": "satyenk1234@gmail.com (lifetime - dodo)",
+    "userEmail": "satyenk1234@gmail.com",
+    "userPassword": "satyenk@in129",
+    "usePlan": "lifetime access",
+    "device": "macos",
+    "startDate": "11-08-2026",
+    "planEndDate": "11-09-2036",
     "deviceAllowed": 1
   },
   {
@@ -285,8 +295,8 @@
     "userPassword": "pankaj@in124",
     "usePlan": "1 year access",
     "device": "macos",
-    "startDate": "31-07-2026",
-    "planEndDate": "31-07-2027",
+    "startDate": "09-08-2026",
+    "planEndDate": "09-09-2027",
     "deviceAllowed": 1
   }
 ]
