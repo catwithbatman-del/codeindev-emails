@@ -79,6 +79,16 @@
     "planEndDate": "31-12-2035",
     "deviceAllowed": 1
   },
+   {
+    "user": "skp.subscription@gmail.com (lifetimePaid - razorpay)",
+    "userEmail": "skp.subscription@gmail.com",
+    "userPassword": "Sumedh@in23d5",
+    "usePlan": "lifetime",
+    "device": "macos/windows",
+    "startDate": "31-08-2026",
+    "planEndDate": "31-12-2035",
+    "deviceAllowed": 1
+  },
   {
     "user": "Prof (lifetime Paid - dodopayments)",
     "userEmail": "profben63@gmail.com",
