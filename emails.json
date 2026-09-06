@@ -298,15 +298,5 @@
     "startDate": "09-08-2026",
     "planEndDate": "09-09-2027",
     "deviceAllowed": 1
-  },
-   {
-    "user": "webdevarmyhq@gmail.com (temp access)",
-    "userEmail": "webdevarmyhq@gmail.com",
-    "userPassword": "demoscreen276",
-    "usePlan": "trial access",
-    "device": "macos",
-    "startDate": "09-08-2026",
-    "planEndDate": "09-09-2027",
-    "deviceAllowed": 1
   }
 ]
