@@ -318,5 +318,15 @@
     "startDate": "08-09-2026",
     "planEndDate": "08-10-2026",
     "deviceAllowed": 1
+  },
+   {
+    "user": "nitish2687@gmail.com (1 year access - razorpay)",
+    "userEmail": "nitish2687@gmail.com",
+    "userPassword": "Nitish@in249",
+    "usePlan": "1 month access",
+    "device": "macos",
+    "startDate": "08-09-2026",
+    "planEndDate": "08-10-2026",
+    "deviceAllowed": 1
   }
 ]
