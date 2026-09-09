@@ -368,5 +368,15 @@
     "startDate": "09-09-2026",
     "planEndDate": "09-09-2027",
     "deviceAllowed": 1
+  },
+   {
+    "user": "sbsahane55@gmail.com (lifetime - razorpay)",
+    "userEmail": "sbsahane55@gmail.com",
+    "userPassword": "Sagar@in254",
+    "usePlan": "lifetime access",
+    "device": "macos",
+    "startDate": "10-09-2026",
+    "planEndDate": "10-09-2036",
+    "deviceAllowed": 1
   }
 ]
