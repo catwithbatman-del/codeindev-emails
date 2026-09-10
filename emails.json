@@ -388,5 +388,15 @@
     "startDate": "10-09-2026",
     "planEndDate": "10-10-2026",
     "deviceAllowed": 1
+  },
+   {
+    "user": "venkatqa90@gmail.com (1 year - razorpay)",
+    "userEmail": "venkatqa90@gmail.com",
+    "userPassword": "Venkat@in256",
+    "usePlan": "1 month access",
+    "device": "macos",
+    "startDate": "10-09-2026",
+    "planEndDate": "10-10-2026",
+    "deviceAllowed": 1
   }
 ]
