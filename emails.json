@@ -380,13 +380,23 @@
     "deviceAllowed": 1
   },
    {
-    "user": "venkatqa90@gmail.com (1 year - razorpay)",
+    "user": "venkatqa90@gmail.com (1 year - razorpay - 3500)",
     "userEmail": "venkatqa90@gmail.com",
     "userPassword": "Venkat@in256",
-    "usePlan": "1 month access",
+    "usePlan": "1 year access",
     "device": "macos",
     "startDate": "10-09-2026",
     "planEndDate": "10-09-2027",
+    "deviceAllowed": 1
+  },
+   {
+    "user": "prameelarepaka4@gmail.com (1 month - razorpay)",
+    "userEmail": "prameelarepaka4@gmail.com",
+    "userPassword": "Prameela@in982",
+    "usePlan": "1 month access",
+    "device": "macos",
+    "startDate": "10-09-2026",
+    "planEndDate": "10-10-2026",
     "deviceAllowed": 1
   }
 ]
